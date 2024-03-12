@@ -1,0 +1,19 @@
+{
+  "name": "@bachtiar58/learing-nodejs-for-tea-testnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bachtiar58/learning-nodejs-for-tea-testnet.git"
+  },
+  "author": "bachtiar58",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bachtiar58/learning-nodejs-for-tea-testnet/issues"
+  },
+  "homepage": "https://github.com/bachtiar58/learning-nodejs-for-tea-testnet#readme"
+}
