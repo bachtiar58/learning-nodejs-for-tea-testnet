@@ -11,6 +11,9 @@
     "url": "git+https://github.com/bachtiar58/learning-nodejs-for-tea-testnet.git"
   },
   "author": "bachtiar58",
+  "dependencies": {
+    "@pakforlay/add-watermark": "1.0.23"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bachtiar58/learning-nodejs-for-tea-testnet/issues"
