@@ -1,6 +1,6 @@
 {
-  "name": "learing-nodejs-for-tea-testnet",
-  "version": "1.0.1",
+  "name": "@bachtiar58/learning-nodejs-for-tea-testne",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bachtiar58/learning-nodejs-for-tea-testnet.git"
   },
-  "author": "bachtiar58",
-  "dependencies": {
-    "@pakforlay/add-watermark": "1.0.23"
-  },
+  "author": "mantrahujan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bachtiar58/learning-nodejs-for-tea-testnet/issues"
